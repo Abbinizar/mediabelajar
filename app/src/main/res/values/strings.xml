@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MediaBelajar</string>
+    <string name="judul_content">\"TERMODINAMIKA\"</string>
+    <string name="content_text">Pada media pembelajaran ini kalian dapat belajar memahami tentang hukum I termodinamika dalam beberapa proses yaitu proses isotermal, proses isokhorik, proses isobarik, dan proses adiabatik. Di media ini, kalian juga dapat mengamati gambar yang berkaitan dengan proses-proses termodinamika. Dan kalian juga dapat mengerjakan latihan-latihan soal.</string>
+    <string name="hukum1">Hukum I Termodinamika merupakan perluasan dari Hukum Kekekalan Energi dalam mekanika. Hukum ini berlaku secara umum untuk semua jenis zat dalam segala wujudnya, tetapi dalam media ini kita hanya membahas dalam wujud gas saja.</string>
+    <string name="hukum1n">Hukum I Termodinamika menyatakan bahwa jumlah kalor yang ditambahkan pada suatu sistem sama dengan perubahan energi dalam sistem ditambah usaha yang dilakukan oleh sistem. Artinya, meskipun suatu bentuk energi telah berubah  ke dalam bentuk energi lain, jumlah seluruh energi selalu tetap. Hukum I Termodinamika dapat dituliskan sebagai berikut.</string>
+    <string name="hukum1nn">Menghitung energi dalam n mol gas ideal monoatomik (satu atom per molekul). Energi daalam (U) merupakan jumlah energi kinetik translasi dari semua atom. Jumlah ini sama dengan energi kinetik rata-rata per molekul dikalikan total molekul.</string>
+    <string name="hukum1nnn">Maka perubahan energi dalam untuk gas monoatomik dengan derajat kebebasan, f=3 adalah :</string>
+    <string name="hukum1nnnn">Ada empat jenis proses dalam termodinamika, yaitu proses isotermal, isokhorik, isobarik, dan adiabatik.</string>
+
+    <string name="isoterm">Proses isotermal merupakan proses dalam suatu sistem pada suhu tetap. Untuk gas ideal, besarnya usaha luar oleh sistem pada proses isotermal adalah</string>
+    <string name="isoterm1">Adapun energi dalam sistem ∆U=f/2 nR∆T. Oleh karena ∆T=0, maka ∆U=0. Jadi, dari persamaa (2) dan persamaan (1), dengan ∆U=0, maka perumusan Hukum I Termodinamika pada proses isotermal menjadi.</string>
+
+    <string name="isokhorik">Proses isokhorik dialami oleh sistem tanpa disertai perubahan volume. Pada proses ini, usaha W=P∆V=0 sehingga Hukum I Termodinamika dapat dituliskan menjadi</string>
+    <string name="isokhorik1">Jadi, pada proses isokhorik kalor yang diberikan pada suatu sistem pada volume tetap seluruhnya digunakan untuk menaikkan energi dalam sistem.</string>
+
+    <string name="isobarik">Jika pada saat proses terjadi, sistem tidak mengalami perubahan tekanan, proses ini disebut isobarik. Besarnya usaha yang dilakukan memenuhi persamaan</string>
+    <string name="isobarik1">Pada proses isobarik terjadi perubahan energi dalam ∆U karena terjadi perubahan suhu sistem ∆T. Perumusan Hukum I Termodinamika pada proses isobarik menjadi</string>
+
+    <string name="adiabatik">Jika pada sistem tidak terjadi pertukaran kalor dengan lingkungannya, berarti sistem tersebut mengalami proses adiabatik. Jadi, proses ini ∆Q=0. Proses adiabatik terjadi perubahan suhu, tekanan, dan volume. Proses ini mengikuti rumus Poisson sebagai berikut.</string>
+    <string name="adiabatik1">Dengan γ>1, merupakan hasil perbandingan kapasitas kalor gas pada tekanan tetap C_p dan  kapasitas kalor gas pada volume tetap C_V. Besaran γ disebut konstanta Laplace.</string>
+    <string name="adiabatik2">Karena sistem tidak melepas atau menerima kalor, maka usaha yang dilakukan hanya mengubah energi dalam.</string>
+    <string name="adiabatik3">Dari hukum I termodinamika usaha yang dilakukan oleh gas pada proses adiabatik dapat juga dinyatakan dalam bentuk yang berbeda, yaitu :</string>
+    <string name="adiabatik4">Karena proses adiabatik ∆Q=0, hukum I termodinamika diperoleh hubungan berikut :</string>
+
+    <string name="soal">Suatu tangki tabung volumenya 4 m^3 berisi gas ideal monoatomik 0,8 mol pada suhu 27℃. Jika gas dipanaskan pada tekanan tetap sehingga suhunya menjadi 77℃, berapakah usaha yang dilakukan oleh gas?</string>
+
+    <!--soal pretest-->
+    <string name="soal1">Dari grafik P-V, besar usaha gas pada proses I dan II berbanding sebagai...</string>
+    <string name="soal2">Satu mol gas ideal mengalami proses isotermal pada suhu T sehingga volumenya menjadi dua kali. Jika R adalah konstanta gas molar. Usaha yang dikerjakan oleh gas selama proses tersebut adalah...</string>
+    <string name="soal3">Sejumlah gas ideal menjalani proses isotermik, sehingga tekanan menjadi 2 kali tekanan semula, maka volumenya menjadi...</string>
+    <string name="soal4">Empat liter gas Ne dari suhu 200 K dan tekanan 2 atm mengalami proses perubahan keadaan secara isobarik sehingga mencapai suhu akhir 600 K, tentukan usaha yang dilakukan gas tersebut selama berproses. (Liter.atm)</string>
+    <string name="soal5">2m^3 gas helium bersuhu 27℃ dipanaskan secara isobarik sampai 77℃. Jika tekanan 3×10^5  N⁄m^2 , maka usaha yang dilakukan gas adalah.... kJ</string>
+
+    <!--soal posttest-->
+    <string name="post1">Suatu mesin kalor yang bekerja dengan siklus yang dibangundari dua isobar dan dua isokhor seperti pada gambar.</string>
+    <string name="post1n">Digunakan untuk menggerakkan sebuah generator yang tegangan keluarannya 200 V. Apabila generator ini mendapatkan beban arus 5 A, maka mesin kalor tersebut dijalankan pada putaran per menit sebesar....rpm</string>
+    <string name="post2">Suatu gas ideal mengalami proses termodinamika seperti pada gambar di bawah. Dalam 1 siklus, usaha yang dihasilkan sebesar....</string>
+    <string name="post3">Gas ideal melakukan proses perubahan tekanan (P) terhadap volume (V). Usaha yang dilakukan oleh gas pada proses tersebut adalah....</string>
+    <string name="post4">Suatu gas ideal mengalami proses tertutup A→B→C→A. Dalam suatu siklus gas tersebut melakukan usaha sebesar....</string>
+    <string name="post5">Apa saja proses yang terdapat pada grafik tersebut</string>
+
+    <!--pembahasan kuis-->
+    <string name="pembahasan">P×∆V karena PV=nRT maka P∆V=nR∆T</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
